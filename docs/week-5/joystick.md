@@ -36,7 +36,7 @@ Components required:
   <TabItem value="problem" label="Problem">
     Search up your joystick's datasheet and pinout online. Then, try to build your circuit on the breadboard. You can use this schematic as a reference:
 
-    <div class="img-center">![Joystick schematic](img/joystick-schematic.png)</div>
+    <div class="img-center">![Joystick schematic](img/joystick-wiring.png)</div>
     <br></br>
 
     Pin connections:
